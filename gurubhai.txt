@@ -1,6 +1,6 @@
 Hi, Welcome to git learning.
 
-New features I added
+New features I added - removed
 
 features II added
 
